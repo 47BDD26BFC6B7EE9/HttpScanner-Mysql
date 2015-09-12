@@ -20,7 +20,3 @@ python ip-build-mysql.py <br>
 
 
 
------Mysql-----
--IPAddress    -
--WEB          -
----------------
