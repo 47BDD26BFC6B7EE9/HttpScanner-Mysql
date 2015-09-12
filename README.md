@@ -17,3 +17,10 @@ python ip-http-scanner.py -p 80 -l 0 -t 1000 -n 1024<br>
 
 python ip-build-mysql.py <br>
 -i --ip-list-file=ip地址列表<br>
+
+
+
+-----Mysql-----
+-IPAddress    -
+-WEB          -
+---------------
